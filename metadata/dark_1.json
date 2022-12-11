@@ -1,0 +1,11 @@
+{
+  "name": "dark 1",
+  "description": "dark night",
+  "image": "https://ipfs.io/ipfs/QmNq34j7YnW1toGpaKzF8vYCDmKxFs2xwhcscrxQzAAEQh",
+  "attributes": [
+    {
+      "type": "Car Park",
+      "time": "night"
+    }
+  ]
+}
